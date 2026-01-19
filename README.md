@@ -5,6 +5,7 @@
 🌱 Atuo continuamente em projetos com foco em impacto social positivo e desenvolvimento sustentável, buscando aplicar tecnologia para resolver problemas reais.<br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=annandajacobs&show_icons=true&theme=dracula)
+![](https://nirzak-streak-stats.vercel.app/?user=annandajacobs&theme=dracula&hide_border=false)<br/>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
