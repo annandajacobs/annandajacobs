@@ -4,8 +4,8 @@
 👩‍🎓 Estudo no Instituto Federal de Alagoas e atualmente estou no 6º período<br/>
 🌱 Atuo continuamente em projetos com foco em impacto social positivo e desenvolvimento sustentável, buscando aplicar tecnologia para resolver problemas reais.<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=annandajacobs&show_icons=true&theme=dracula)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=annandajacobs&theme=dracula&hide_border=false)<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annandajacobs&count_private=true&show_icons=true&theme=radical" /> </p>
+<p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=annandajacobs&theme=radical&hide_border=false" /> </p>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
