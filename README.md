@@ -1,10 +1,20 @@
-## Olá, me chamo Annanda!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=header"/>
+<div align="center">
+  <samp>
+      Hello! I'm <b>Annanda Jacobs</b>
+  </samp>
+</div>
 
-👩‍💻 Desenvolvedora de Software e estudante de Sistemas de Informação<br/>
-👩‍🎓 Estudo no Instituto Federal de Alagoas e atualmente estou no 6º período<br/>
-🌱 Atuo continuamente em projetos com foco em impacto social positivo e desenvolvimento sustentável, buscando aplicar tecnologia para resolver problemas reais.<br/>
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff95ff&width=900&size=22&center=true&lines=I'm+a+Software+Developer;I'm+a+student+of+Information+Systems;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=annandajacobs&count_private=true&show_icons=true&theme=radical" /> </p>
+<br>
 <p align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=annandajacobs&theme=radical&hide_border=false" /> </p>
 
 ## 💻 Tech Stack
