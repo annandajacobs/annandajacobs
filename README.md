@@ -45,6 +45,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=annandajacobs&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=annandajacobs&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak" />
+</p>
+
+
 ---
 
 ### <img src="https://img.shields.io/badge/-Tech%20Stack-ff95ff?style=for-the-badge&logo=stackshare&logoColor=white"/>
