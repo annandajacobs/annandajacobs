@@ -83,10 +83,10 @@
 
 <p align="center">
   <a href="https://github.com/annandajacobs?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=NOME-DO-REPO-1&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=reconhecimento_facial&theme=radical&hide_border=true"/>
   </a>
   <a href="https://github.com/annandajacobs?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=NOME-DO-REPO-2&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=gtur&theme=radical&hide_border=true"/>
   </a>
 </p>
 
