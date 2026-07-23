@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=20&section=header&text=Annanda%20Jacobs&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Information%20Systems%20Student&descAlignY=55&descSize=18"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff95ff&width=900&size=22&center=true&vCenter=true&lines=Ol%C3%A1%2C+eu+sou+a+Annanda!;Software+Developer;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonada+por+resolver+problemas+com+c%C3%B3digo;Seja+bem-vindo%28a%29+ao+meu+perfil!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff95ff&width=900&size=22&center=true&vCenter=true&lines=Software+Developer;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonada+por+resolver+problemas+com+c%C3%B3digo;Seja+bem-vindo%28a%29+ao+meu+perfil!" alt="Typing SVG"/>
 </div>
 
 <br>
