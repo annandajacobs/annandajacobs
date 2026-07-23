@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annandajacobs&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=annandajacobs&theme=radical&hide_border&hide_border=true"/>
 </p>
 
 <p align="center">
