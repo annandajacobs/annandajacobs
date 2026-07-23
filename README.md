@@ -79,19 +79,6 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-Projetos%20em%20destaque-ff95ff?style=for-the-badge&logo=pinboard&logoColor=white"/>
-
-<p align="center">
-  <a href="https://github.com/annandajacobs?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=reconhecimento_facial&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/annandajacobs?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annandajacobs&repo=gtur&theme=radical&hide_border=true"/>
-  </a>
-</p>
-
----
-
 ### <img src="https://img.shields.io/badge/-Contato-ff95ff?style=for-the-badge&logo=rocketdotchat&logoColor=white"/>
 
 <p align="center">
