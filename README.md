@@ -17,10 +17,7 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/AnaCastroDev/AnaCastroDev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
 - Estudante de **Sistemas de Informação**
-- Desenvolvedora **Full Stack**, com foco em back-end
-- Sempre aprendendo novas tecnologias e boas práticas
-- Trabalhando atualmente com **Python, JavaScript/TypeScript e PHP**
-- Experiência com **Django, Node.js, Laravel** e **React**
+- Desenvolvedora **Full Stack**, com interesse crescente em **Inteligência Artificial**
 
 <br clear="right"/>
 
@@ -87,6 +84,9 @@
 ### <img src="https://img.shields.io/badge/-Contato-ff95ff?style=for-the-badge&logo=rocketdotchat&logoColor=white"/>
 
 <p align="center">
+  <a href="https://annandajacobs.github.io/annandajacobs-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-ff95ff?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
   <a href="http://www.linkedin.com/in/annanda-jacobs-166649278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
